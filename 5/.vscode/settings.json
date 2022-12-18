@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "typescript.disableAutomaticTypeAcquisition": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "deno.inlayHints.enumMemberValues.enabled": false,
+  "editor.inlayHints.enabled": "off"
+}
